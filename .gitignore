@@ -1,0 +1,9 @@
+*.log
+cache/
+.cfg
+server-key.txt
+.env
+*.ytd
+*.yft
+*.rpf
+*.db
